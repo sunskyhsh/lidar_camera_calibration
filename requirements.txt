@@ -1,0 +1,12 @@
+python-pcl
+pptk
+scikit-learn
+opencv-python
+matplotlib
+scipy
+numpy
+glob
+PyYAML>=5.3.1
+roslib
+rospy
+sensor_msgs
